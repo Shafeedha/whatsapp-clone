@@ -9,7 +9,7 @@ class Status_screen extends StatelessWidget {
   List<StatusDetails> statuses = [
 
     StatusDetails(
-      name: "sddfd",
+      name: "sddd",
       image: "",
       updateAt: "today 2 pm",
       isStatus: true
