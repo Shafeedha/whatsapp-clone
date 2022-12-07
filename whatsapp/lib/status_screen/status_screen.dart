@@ -15,7 +15,7 @@ class Status_screen extends StatelessWidget {
       isStatus: true
     ),
     StatusDetails(
-      name: "qqqqq",
+      name: "shefi",
       image: "",
       updateAt: "today 2 pm",
       isStatus: false
